@@ -1,6 +1,6 @@
 # AlphaAngles
 
-Analyze a terrain [DEM](https://en.wikipedia.org/wiki/Digital_elevation_model) file using [alpha angles](https://www.avalanche-center.org/Education/glossary/alpha-angle.php) to estimate potential avalanche runout paths associated with a collection of trigger points.
+Analyze a terrain [DEM](https://en.wikipedia.org/wiki/Digital_elevation_model) file using [alpha angles](https://www.avalanche-center.org/Education/glossary/alpha-angle.php) to estimate potential avalanche runout paths associated with a collection of trigger points.  The USGS hosts  [high resolution DEM files](https://apps.nationalmap.gov/downloader/) for download (search the 1 meter DEM files under the "Elevation Products (3DEP)" tab).
 
 Trigger points should mark the highest point of a potential avalanche path.
 
